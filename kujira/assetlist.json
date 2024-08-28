@@ -2847,6 +2847,33 @@
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/bow.svg"
         }
       ]
+    },
+    {
+      "description": "The token of LOV",
+      "denom_units": [
+        {
+          "denom": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/ulov",
+          "exponent": 0
+        },
+        {
+          "denom": "lov",
+          "exponent": 6
+        }
+      ],
+      "base": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/ulov",
+      "name": "LOV",
+      "display": "lov",
+      "symbol": "LOV",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/lov.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/lov.svg"
+      },
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/lov.png",
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/lov.svg"
+        }
+      ]
     }
   ]
 }
