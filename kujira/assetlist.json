@@ -2847,6 +2847,33 @@
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/bow.svg"
         }
       ]
+    },
+    {
+      "description": "The token of ROB",
+      "denom_units": [
+        {
+          "denom": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/urob",
+          "exponent": 0
+        },
+        {
+          "denom": "rob",
+          "exponent": 6
+        }
+      ],
+      "base": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/urob",
+      "name": "ROB",
+      "display": "rob",
+      "symbol": "ROB",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/rob.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/rob.svg"
+      },
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/rob.png",
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/rob.svg"
+        }
+      ]
     }
   ]
 }
