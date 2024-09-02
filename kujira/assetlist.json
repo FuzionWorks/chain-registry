@@ -2847,6 +2847,33 @@
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/bow.svg"
         }
       ]
+    },
+    {
+      "description": "The token of TIVO",
+      "denom_units": [
+        {
+          "denom": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/utivo",
+          "exponent": 0
+        },
+        {
+          "denom": "tivo",
+          "exponent": 6
+        }
+      ],
+      "base": "factory/kujira13l9sjf2z3g8w9rkxgmfedv9qtel8ke8aaygrgl433uggmtkdhmmsjt5qjg/utivo",
+      "name": "TIVO",
+      "display": "tivo",
+      "symbol": "TIVO",
+      "logo_URIs": {
+        "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/tivo.png",
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/tivo.svg"
+      },
+      "images": [
+        {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/tivo.png",
+          "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/tivo.svg"
+        }
+      ]
     }
   ]
 }
